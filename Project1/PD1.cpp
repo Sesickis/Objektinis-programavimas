@@ -104,5 +104,3 @@ int main() {
     treciasAutomobilis.isvestiDuomenis();
 
 }
-
-//Pakeitimas testui1
